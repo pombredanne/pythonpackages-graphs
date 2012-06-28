@@ -28,3 +28,10 @@
 #    savefig(filename, facecolor='#EEEEEE', format='png')
 #    clf()
 
+
+   ## Configure /graphs
+    #config.add_route('vanity_graphs', '/graphs')
+    #config.add_view('vanity_app.views.graphs',
+    #    route_name='vanity_graphs',
+    #        renderer='vanity_app:templates/vanity_graphs.mak')
+
