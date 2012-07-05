@@ -35,3 +35,8 @@
     #    route_name='vanity_graphs',
     #        renderer='vanity_app:templates/vanity_graphs.mak')
 
+
+# Graphs
+#GRAPH_PERCENT_FEATURED_TITLE = '%2.f%% packages listed on Python \n'
+#GRAPH_PERCENT_FEATURED_TITLE += 'Package Index featured on \n'
+#GRAPH_PERCENT_FEATURED_TITLE += 'pythonpackages.com'
